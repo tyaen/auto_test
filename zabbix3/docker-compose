@@ -28,3 +28,5 @@ zabbix-server:
     - ZS_DBUser=zabbix
     - ZS_DBPassword=my_password
 
+
+# add !test!
