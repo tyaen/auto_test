@@ -1,3 +1,5 @@
+# from https://github.com/zabbix/zabbix-community-docker
+
 zabbix-db-storage:
   image: busybox:latest
   volumes:
